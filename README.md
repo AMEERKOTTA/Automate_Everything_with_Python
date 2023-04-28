@@ -1,4 +1,4 @@
-# **Automate Everything with Python**
+# **Automate Everything with Python**.
 ### *Automating Everything with Python Programming*
 
 + **Section : 1 -- Getting Started**
